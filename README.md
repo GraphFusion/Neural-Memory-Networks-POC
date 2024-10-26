@@ -101,15 +101,15 @@ LOW (0.4-0.5): Preliminary research, Individual reports, Uncorroborated findings
                                              │
                  ┌───────────────────────────┼───────────────────────────┐
                  │                           │                           │
-        ┌────────┴────────┐        ┌────────┴────────┐        ┌────────┴────────┐
-        │ Knowledge       │        │    Evidence      │        │   Context       │
-        │ Processing      │        │   Assessment     │        │  Integration    │
+        ┌────────┴────────┐        ┌──────── ┴────────┐        ┌───────┴────────┐
+        │ Knowledge       │        │    Evidence     │        │   Context       │
+        │ Processing      │        │   Assessment    │        │  Integration    │
         └────────┬────────┘        └────────┬────────┘        └────────┬────────┘
-                 │                           │                           │
+                 │                          │                           │
                  └───────────────────────────┼───────────────────────────┘
                                              │
                                     ┌────────┴────────┐
-                                    │  Knowledge Graph │
+                                    │  Knowledge Graph│
                                     └────────┬────────┘
                                              │
                                     ┌────────┴────────┐
